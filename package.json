@@ -1,0 +1,6 @@
+{
+  "name": "a-tudat-alatti-hatalma",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" }
+}
